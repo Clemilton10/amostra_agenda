@@ -14,8 +14,6 @@
 
 <img src='./junho_1.png' border=0 /><img src='./junho_2.png' border=0 />
 
-<img src='./junho_1.png' border=0 /><img src='./junho_2.png' border=0 />
-
 <img src='./julho_1.png' border=0 /><img src='./julho_2.png' border=0 />
 
 <img src='./agosto_1.png' border=0 /><img src='./agosto_2.png' border=0 />
